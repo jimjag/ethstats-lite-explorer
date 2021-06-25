@@ -86,7 +86,7 @@
     "ethstats-ui": "^1.0.0-beta.1",
     "fontfaceobserver": "^2.0.13",
     "identicon.js": "^2.3.2",
-    "mobx": "^4.3.0",
+    "mobx": "^4.15.7",
     "mobx-react": "^5.1.2",
     "monaco-editor": "^0.14.3",
     "qrcode": "^1.2.2",
