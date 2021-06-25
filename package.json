@@ -87,7 +87,7 @@
     "fontfaceobserver": "^2.0.13",
     "identicon.js": "^2.3.2",
     "mobx": "^4.3.0",
-    "mobx-react": "^5.1.2",
+    "mobx-react": "^5.4.4",
     "monaco-editor": "^0.14.3",
     "qrcode": "^1.2.2",
     "react": "^16.6.3",
