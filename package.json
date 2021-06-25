@@ -88,7 +88,7 @@
     "identicon.js": "^2.3.2",
     "mobx": "^4.3.0",
     "mobx-react": "^5.1.2",
-    "monaco-editor": "^0.14.3",
+    "monaco-editor": "^0.24.0",
     "qrcode": "^1.2.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
